@@ -1,4 +1,4 @@
-Getting Started with Lab
+# Getting Started with Lab
 
 1. Once the environment is provisioned, a virtual machine (JumpVM) and lab guide will get loaded in your browser. Use this virtual machine throughout the workshop to perform the the lab.
 1. To get the lab environment details, you can select **Lab Environment** tab. 
@@ -64,4 +64,4 @@ If your environment is stopped due to inactivity feature, please follow the belo
    
 2. In Lab Resources, please select the start all virtual machines button to start the resources
 
-   ![](https://raw.githubusercontent.com/
+   ![](https://raw.githubusercontent.com/himanshuahlawat31/MCW-Machine-Learning/master/Hands-on%20lab/images/cand-02.png)
