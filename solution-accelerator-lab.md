@@ -60,4 +60,4 @@ If your environment is stopped due to inactivity feature, please follow the belo
 
    
 In Lab Resources, please select the start all virtual machines button to start the resources
-![azure portal.](images/solution3.PNG)
+![azure portal.](images/solution4.PNG)
