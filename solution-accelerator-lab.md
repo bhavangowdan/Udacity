@@ -50,7 +50,7 @@
    
 1. Confirm you have all resource group are present as shown below.
 
-   ![](images/udacity-03.png "Resource groups")
+   ![](images/solution5.png "Resource groups")
    
 1. Now, click on the **Resource group** 
 
