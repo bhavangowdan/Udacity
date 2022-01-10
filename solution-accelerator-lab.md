@@ -58,10 +58,6 @@
 
 If your environment is stopped due to inactivity feature, please follow the below steps to start the resources: 
 
-1. Please go to the Lab environment details provided in the right side of the environment and select Lab Resources
-
-   ![](https://raw.githubusercontent.com/himanshuahlawat31/MCW-Machine-Learning/master/Hands-on%20lab/images/cand-01.png)
    
-2. In Lab Resources, please select the start all virtual machines button to start the resources
-
-   ![](https://raw.githubusercontent.com/himanshuahlawat31/MCW-Machine-Learning/master/Hands-on%20lab/images/cand-02.png)
+In Lab Resources, please select the start all virtual machines button to start the resources
+![azure portal.](images/solution3.PNG)
