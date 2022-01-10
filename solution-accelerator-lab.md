@@ -3,14 +3,14 @@
 1. Once the environment is provisioned, a virtual machine (JumpVM) and lab guide will get loaded in your browser. Use this virtual machine throughout the workshop to perform the the lab.
 1. To get the lab environment details, you can select **Lab Environment** tab. 
 
-   ![](images/udacity-01.png "Lab Environment")
+   ![](images/solution1.PNG "Lab Environment")
  
  
  
 ## Login to Azure Portal
 1. In the JumpVM, click on Azure portal shortcut of Microsoft Edge browser which is created on desktop.
 
-   ![azure portal.](images/udacity-02.png)
+   ![azure portal.](images/solution2.PNG)
    
 1. When you click on Azure portal, edge browser welcome screen will come up, select **Get started**.
 
