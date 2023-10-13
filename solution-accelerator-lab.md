@@ -4,7 +4,7 @@
 1. To get the lab environment details, you can select **Lab Environment** tab. 
 
   <p align="left">
-<img width="560" height="300" img src="images/solution2.PNG"/>
+<img width="900" height="900" img src="images/solution2.PNG"/>
 </p>
  
  
