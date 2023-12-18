@@ -69,3 +69,9 @@ Identify all container images not hosting a specific technology​.
         <summary>Q1-Answer</summary>
             From the All Technologies list on the Inventory > Technologies page, click on a technology, such as NGINX, to open the drawer. In the Area below the review status, click on the <b>Hosting Containers</b> link, which jumps you to the graph and displays all of the containers hosting that technology. Now click once on the **THAT** in the clause THAT Runs Hosted Technology WHERE Technology ID equals NGINX. This action should add a THAT NOT as part of the clause, which is the negated form of the clause and a correct answer. **Tip:** Try clicking on the THAT clause multiple times to see what happens... 
     </details>
+
+Detect all workloads running without an endpoint protection agent in the entire cloud estate.
+    <details>
+        <summary>Q2-Answer</summary>
+        On the **Inventory > Technologies** page, select the Security category, and then select the Endpoint Protection Platform subcategory, and then click the View on graph button. Click on the clause reading **THAT runs on Cloud Resources OR Technology Usage OR Hosted Technology**, and clear the check box next to Cloud Resources and Technology Usage. At the end of that revised clause, click **+** to add a filtering clause, and type **VM** in the search, and click on **Virtual Machine: that run it**. Click on that resulting condition in that new clause, and add **Container Image** to it.
+    </details>    
