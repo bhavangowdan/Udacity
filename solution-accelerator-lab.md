@@ -63,3 +63,9 @@ If your environment is stopped due to inactivity feature, please follow the belo
    
 In Lab Resources, please select the start all virtual machines button to start the resources
 ![azure portal.](images/solution4.png)
+
+Identify all container images not hosting a specific technology​.
+    <details>
+        <summary>Q1-Answer</summary>
+            From the All Technologies list on the Inventory > Technologies page, click on a technology, such as NGINX, to open the drawer. In the Area below the review status, click on the <b>Hosting Containers</b> link, which jumps you to the graph and displays all of the containers hosting that technology. Now click once on the **THAT** in the clause THAT Runs Hosted Technology WHERE Technology ID equals NGINX. This action should add a THAT NOT as part of the clause, which is the negated form of the clause and a correct answer. **Tip:** Try clicking on the THAT clause multiple times to see what happens... 
+    </details>
